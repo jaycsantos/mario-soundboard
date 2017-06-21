@@ -1,0 +1,22 @@
+{
+  "name": "mario-soundboard",
+  "homepage": "https://github.com/jaycsantos/mario-soundboard",
+  "authors": [
+    "jayc santos <hello@jaycsantos.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "GNU",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "^1.2.1",
+    "vue": "^2.1.4"
+  }
+}
